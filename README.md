@@ -18,3 +18,7 @@ A simple command-line Tic-Tac-Toe game implemented in Python.
 
 ## Requirements: 
  -Python3.x
+
+
+## Thanks 
+Thanks for playing the game ;) 
