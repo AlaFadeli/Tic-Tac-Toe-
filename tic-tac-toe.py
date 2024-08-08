@@ -71,5 +71,4 @@ def final_fun() :
 
 final_fun()
 
-
-
+print("Thanks for playing")
